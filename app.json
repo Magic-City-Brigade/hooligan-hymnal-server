@@ -1,7 +1,7 @@
 {
-  "name": "Hooligan Hymnal Server",
-  "description": "Manages CRUD operations for Hooligan Hymnal and serves data to the mobile app.\nRead more about configuration at https://github.com/Chattahooligans/hooligan-hymnal-app/blob/main/docs/server.md",
-  "repository": "https://github.com/Chattahooligans/hooligan-hymnal-server/",
+  "name": "MCB Hymnal Server",
+  "description": "Manages CRUD operations for MCB Hymnal and serves data to the mobile app.\nRead more about configuration at https://github.com/Chattahooligans/hooligan-hymnal-app/blob/main/docs/server.md",
+  "repository": "https://github.com/Magic-City-Brigade/hooligan-hymnal-server",
   "keywords": ["node", "express"],
   "success_url": "/register",
   "env": {
